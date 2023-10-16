@@ -1,4 +1,4 @@
-# komentar, a dalsi komentar
+# super-duper ucet
 class Ucet:
 
     def __init__(self, zustatek: int =0):
