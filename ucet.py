@@ -4,7 +4,7 @@ class Ucet:
     def __init__(self, zustatek: int =0):
         self.zustatek = zustatek
 
-    def pridej(self, kolik):
+    def pridej(self, kolik) -> None:
         self.zustatek += kolik
 
 
