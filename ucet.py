@@ -1,3 +1,4 @@
+# komentar
 class Ucet:
 
     def __init__(self, zustatek: int =0):
