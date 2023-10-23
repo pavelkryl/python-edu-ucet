@@ -3,3 +3,5 @@
 Zkoušíme si vlastnosti VSCode.
 
 A jeste spoustu dalsich veci.
+
+A pak taky file.
