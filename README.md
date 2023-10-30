@@ -3,5 +3,3 @@
 Zkoušíme si vlastnosti VSCode.
 
 A jeste spoustu dalsich veci.
-
-Demo rebase nebo merge.

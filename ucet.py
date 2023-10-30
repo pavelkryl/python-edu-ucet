@@ -10,5 +10,5 @@ class Ucet:
 
 if __name__ == "__main__":
     ucet = Ucet(101)
-    ucet.pridej(100)
+    ucet.pridej(200)
     print(ucet.zustatek)
